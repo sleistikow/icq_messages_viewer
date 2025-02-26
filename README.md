@@ -13,3 +13,4 @@ Then simply run the script using ```python3 icq_viewer.py```.
 # Dependencies
 ```pip3 install PyQt5```
 
+Feel free to contribute!
