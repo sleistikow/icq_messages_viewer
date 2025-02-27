@@ -1,4 +1,4 @@
-# icq_messages_viewer
+# ICQ Messages Viewer
 This repository contains a python script that allows to view old ICQ Messages.qdb files. Tested so far only on ICQ 7 files, others might work as well.
 
 ![icq_viewer](https://github.com/user-attachments/assets/fa20fa66-4fa2-4d99-bf83-9cc600a817b5)
