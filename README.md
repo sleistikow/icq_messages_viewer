@@ -4,13 +4,13 @@ This repository contains a python script that allows to view old ICQ Messages.qd
 ![icq_viewer](https://github.com/user-attachments/assets/fa20fa66-4fa2-4d99-bf83-9cc600a817b5)
 
 
-# How to use the viewer?
-Simply copy the icq_viewer.py python script alongside your "Messages.qpb" files obtained from you ICQ installation.
+## How to use the viewer?
+Simply copy the icq_viewer.py python script alongside your "Messages.qdb" files obtained from you ICQ installation.
 Alternatively, you might adapt the path directly in the file.
 
 Then simply run the script using ```python3 icq_viewer.py```.
 
-# Dependencies
+## Dependencies
 ```pip3 install PyQt5```
 
 Feel free to contribute!
